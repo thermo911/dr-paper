@@ -12,6 +12,7 @@
   - [Efﬁcient Exploitation of Similar Subexpressions for Query Processing](http://www.cs.columbia.edu/~jrzhou/pub/cse.pdf)
   - [Optimizing Queries Using Materialized Views: A Practical, Scalable Solution](https://courses.cs.washington.edu/courses/cse591d/01sp/opt_views.pdf)
   - [Complete Yet Practical Search for Minimal Query Reformulations Under Constraints](https://inria.hal.science/hal-01086494/file/mod618-ileana.pdf)
+  - [Maintaining views incrementally](https://dl.acm.org/doi/pdf/10.1145/170035.170066)
 
 ### Storage and indexing
 
@@ -23,3 +24,9 @@
 ### Architecture
 
 - [Big Metadata: When Metadata is Big Data](https://www.vldb.org/pvldb/vol14/p3083-edara.pdf)
+- [Native Distributed Databases: Problems, Challenges and Opportunities](https://www.vldb.org/pvldb/vol17/p4217-xu.pdf)
+- [BigLake: BigQuery’s Evolution toward a Multi-Cloud Lakehouse](https://storage.googleapis.com/gweb-research2023-media/pubtools/7808.pdf)
+
+### Trends
+
+- [What Goes Around Comes Around... And Around...](https://sigmodrecord.org/publications/sigmodRecord/2406/pdfs/04_Surveys_Stonebraker.pdf)
